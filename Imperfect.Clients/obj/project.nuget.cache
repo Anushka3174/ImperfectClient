@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "tKi2m4vPncSP5zGTztwNsyb3tIZXPIB0LKJtXOYV1VXL5iq0OY9o/6v3j3P1Bj9BQ9ZsU4h3s7UHcZ0DR1ZZ0A==",
+  "dgSpecHash": "lCBNfbo5kvtSSwPa7M+trTOvoZI/NiN8ylFkImHhHl2ltJ4C1zgSJ3G5SMbkfr0AIdLHLBUIemyN32iDKvwWEA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\alethia.strande\\Source\\Repos\\ImperfectClient\\Imperfect.Clients\\Imperfect.Clients.csproj",
+  "projectFilePath": "C:\\Users\\DELL\\source\\repos\\Imperfect\\Imperfect\\Imperfect.Clients\\Imperfect.Clients.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\alethia.strande\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
   ],
   "logs": []
 }

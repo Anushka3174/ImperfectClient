@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alethia.strande\\Source\\Repos\\ImperfectClient\\Imperfect.Clients\\Imperfect.Clients.csproj": {}
+    "C:\\Users\\DELL\\source\\repos\\Imperfect\\Imperfect\\Imperfect.Clients\\Imperfect.Clients.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alethia.strande\\Source\\Repos\\ImperfectClient\\Imperfect.Clients\\Imperfect.Clients.csproj": {
+    "C:\\Users\\DELL\\source\\repos\\Imperfect\\Imperfect\\Imperfect.Clients\\Imperfect.Clients.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alethia.strande\\Source\\Repos\\ImperfectClient\\Imperfect.Clients\\Imperfect.Clients.csproj",
+        "projectUniqueName": "C:\\Users\\DELL\\source\\repos\\Imperfect\\Imperfect\\Imperfect.Clients\\Imperfect.Clients.csproj",
         "projectName": "Imperfect.Clients",
-        "projectPath": "C:\\Users\\alethia.strande\\Source\\Repos\\ImperfectClient\\Imperfect.Clients\\Imperfect.Clients.csproj",
-        "packagesPath": "C:\\Users\\alethia.strande\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alethia.strande\\Source\\Repos\\ImperfectClient\\Imperfect.Clients\\obj\\",
+        "projectPath": "C:\\Users\\DELL\\source\\repos\\Imperfect\\Imperfect\\Imperfect.Clients\\Imperfect.Clients.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DELL\\source\\repos\\Imperfect\\Imperfect\\Imperfect.Clients\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\alethia.strande\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
