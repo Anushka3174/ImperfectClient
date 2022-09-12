@@ -30,5 +30,19 @@ namespace Imperfect.Clients.Controllers
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
+
+        //post/get friendship request 
+
+        //get person from search
+
+        //get persons feed 
+
+        //get feed 
+
+        //post picture/text
+
+        //delete friend 
+
+        //like/comment friends posts
     }
 }
