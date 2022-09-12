@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lCBNfbo5kvtSSwPa7M+trTOvoZI/NiN8ylFkImHhHl2ltJ4C1zgSJ3G5SMbkfr0AIdLHLBUIemyN32iDKvwWEA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DELL\\source\\repos\\Imperfect\\Imperfect\\Imperfect.Clients\\Imperfect.Clients.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
+  ],
+  "logs": []
+}
