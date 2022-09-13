@@ -38,6 +38,11 @@ namespace Imperfect.Clients.Controllers
         [HttpGet(Name = "GetOnePersonFeed")]
         public IActionResult GetOnePersonFeed()
         {
+            //sjekke om det er deg selv
+            //hente ut spesifikk bruker 
+            //sende med informasjon 
+                    // bilder/content 
+                    // annen informasjon
             return View();
         }
 
