@@ -21,5 +21,10 @@
 **/obj
 **/secrets.dev.yaml
 **/values.dev.yaml
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
 LICENSE
 README.md
