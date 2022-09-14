@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DELL\\source\\repos\\Imperfect\\Imperfect\\Imperfect.API\\Imperfect.API.csproj": {}
+    "C:\\Users\\alethia.strande\\ImperfectClient\\Imperfect.API\\Imperfect.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DELL\\source\\repos\\Imperfect\\Imperfect\\Imperfect.API\\Imperfect.API.csproj": {
+    "C:\\Users\\alethia.strande\\ImperfectClient\\Imperfect.API\\Imperfect.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DELL\\source\\repos\\Imperfect\\Imperfect\\Imperfect.API\\Imperfect.API.csproj",
+        "projectUniqueName": "C:\\Users\\alethia.strande\\ImperfectClient\\Imperfect.API\\Imperfect.API.csproj",
         "projectName": "Imperfect.API",
-        "projectPath": "C:\\Users\\DELL\\source\\repos\\Imperfect\\Imperfect\\Imperfect.API\\Imperfect.API.csproj",
-        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DELL\\source\\repos\\Imperfect\\Imperfect\\Imperfect.API\\obj\\",
+        "projectPath": "C:\\Users\\alethia.strande\\ImperfectClient\\Imperfect.API\\Imperfect.API.csproj",
+        "packagesPath": "C:\\Users\\alethia.strande\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alethia.strande\\ImperfectClient\\Imperfect.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\alethia.strande\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -40,6 +40,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Gremlin.Net": {
+              "target": "Package",
+              "version": "[3.4.0, )"
+            },
+            "Newtonsoft.json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.2.3, )"

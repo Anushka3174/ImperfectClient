@@ -9,7 +9,7 @@ namespace Imperfect.Clients.Data
 
         public static class ProfileContext
         {
-        public static readonly List<Profile> Profiles = new List<Profile>
+        /*public static readonly List<Profile> Profiles = new List<Profile>
         {
             new Profile()
             {
@@ -84,5 +84,6 @@ namespace Imperfect.Clients.Data
             },
 
         };
+        */
     }
 }

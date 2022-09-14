@@ -17,7 +17,8 @@ namespace Imperfect.Clients.Controllers
 
         public IActionResult Index()
         {
-            return View(ProfileContext.Profiles);
+            //return View(ProfileContext.Profiles);
+            return View();
         }
 
         public IActionResult Privacy()
