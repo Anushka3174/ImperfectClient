@@ -34,3 +34,6 @@ Release/
 
 # Visual Studio 2015
 .vs/
+
+Imperfect.API/obj
+Imperfect.API/bin/Debug/net6.0/Imperfect.API.dll
