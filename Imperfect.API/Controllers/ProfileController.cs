@@ -4,6 +4,8 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace Imperfect.API.Controllers
 {
+    private String _id = "";
+
     [ApiController]
     [Route("[controller]")]
     public class ProfileController
@@ -26,13 +28,18 @@ namespace Imperfect.API.Controllers
 
         //get persons feed 
         [HttpGet(Name = "GetOnePersonFeed")]
-        public IActionResult GetOnePersonFeed()
+        public IActionResult GetOnePersonFeed(String id)
         {
             //sjekke om det er deg selv
             //hente ut spesifikk bruker 
             //sende med informasjon 
                     // bilder/content 
                     // annen informasjon
+            //hent fra database 
+            Profile p = getFromDatabase();
+            if(_id != p.getId()){
+                //hent fra database
+            }
             return View();
         }
 
