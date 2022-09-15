@@ -1,7 +1,6 @@
 ﻿using Imperfect.API.Data;
 using Imperfect.API.Models;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
